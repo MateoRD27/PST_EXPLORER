@@ -55,4 +55,5 @@ output/
 Thumbs.db
 
 *.pdf
-*.docx
+
+docs/
