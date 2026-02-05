@@ -53,3 +53,6 @@ output/
 *.sqlite3
 
 Thumbs.db
+
+*.pdf
+*.docx
