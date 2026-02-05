@@ -1,5 +1,7 @@
 # PST_EXPLORER2
 
+crear carpeta en root que se llame DatosCorreos y carga ahí tu .pst
+
 Proyecto para explorar archivos `.pst`, extraer cuerpos HTML/TXT de mensajes por carpeta y extraer el campo "Asunto" de los HTML guardados.
 
 1. Tener Python 3.12 (o 3.x moderno).
